@@ -1,0 +1,2 @@
+# android_vendor_lenovo_a6000phone
+android_vendor_lenovo_a6000
